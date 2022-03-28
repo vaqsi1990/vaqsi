@@ -1,0 +1,43 @@
+body{
+    background-color: #FFD700;
+}
+
+
+.carousel {
+    display: block;
+    margin: 0pc auto;
+    width: 50%;
+    height: 50px;
+}
+
+.col {
+    margin-top: 35%;
+}
+
+.col p{
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn{
+    display: block;
+    margin: 0px auto;
+    width: 25%;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px #888888;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.btn:hover {
+    background-image: none;
+   
+}
+
+.border-top p {
+    color:black
+}
+
+.collapse h2{
+    text-align: center;
+}
+
